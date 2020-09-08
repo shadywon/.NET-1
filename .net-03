@@ -12,9 +12,9 @@ namespace ConsoleApplication4
         {
             int max = int.MinValue;//最大值
             int min = int.MaxValue;//最小值
-            int sum = 0;//总和bai
+            int sum = 0;//总和
             int count = 0, input = 0;
-            int len = 10;//输入du总zhi数
+            int len = 10;//输入总数
             while (count < len)
             {
                 Console.Write("请输入第" + (count + 1) + "个数:");
@@ -25,7 +25,7 @@ namespace ConsoleApplication4
                     if (input < min) min = input;//最小
                     sum += input;//总和
                 }
-                else Console.WriteLine("输入有误重新dao输入");
+                else Console.WriteLine("输入有误重新输入");
             }
             Console.WriteLine(string.Format("最大值为{0},最小为{1}，总和为{2},平均值{3}", max, min, sum, sum / len));
             Console.ReadKey();
