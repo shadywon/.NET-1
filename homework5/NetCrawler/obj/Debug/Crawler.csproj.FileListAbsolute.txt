@@ -1,0 +1,8 @@
+F:\dotnet.hw\homework5\NetCrawler\bin\Debug\WindowsFormsApp1.exe.config
+F:\dotnet.hw\homework5\NetCrawler\bin\Debug\WindowsFormsApp1.exe
+F:\dotnet.hw\homework5\NetCrawler\bin\Debug\WindowsFormsApp1.pdb
+F:\dotnet.hw\homework5\NetCrawler\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\dotnet.hw\homework5\NetCrawler\obj\Debug\Crawler.csproj.GenerateResource.cache
+F:\dotnet.hw\homework5\NetCrawler\obj\Debug\Crawler.csproj.CoreCompileInputs.cache
+F:\dotnet.hw\homework5\NetCrawler\obj\Debug\WindowsFormsApp1.exe
+F:\dotnet.hw\homework5\NetCrawler\obj\Debug\WindowsFormsApp1.pdb
